@@ -1,0 +1,10 @@
+{
+    "name": "Button Primary",
+    "type": "atom",
+    "stability": "stable",
+    "assets": {
+        "html": [
+            "patterns/atoms/button-primary/button-primary.html"
+        ]
+    }
+}

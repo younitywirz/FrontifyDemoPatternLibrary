@@ -1,0 +1,10 @@
+{
+    "name": "Button Dark",
+    "type": "atom",
+    "stability": "stable",
+    "assets": {
+        "html": [
+            "patterns/atoms/button-dark/button-dark.html"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Button Success",
+    "type": "atom",
+    "stability": "stable",
+    "assets": {
+        "html": [
+            "patterns/atoms/button-success/button-success.html"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Button Link",
+    "type": "atom",
+    "stability": "stable",
+    "assets": {
+        "html": [
+            "patterns/atoms/button-link/button-link.html"
+        ]
+    }
+}

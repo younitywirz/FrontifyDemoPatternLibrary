@@ -1,0 +1,10 @@
+{
+    "name": "Search Form",
+    "type": "molecule",
+    "stability": "stable",
+    "assets": {
+        "html": [
+            "patterns/molecules/search-form/search-form.html"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Input with button",
+    "type": "molecule",
+    "stability": "stable",
+    "assets": {
+        "html": [
+            "patterns/molecules/input-with-button/input-with-button.html"
+        ]
+    }
+}

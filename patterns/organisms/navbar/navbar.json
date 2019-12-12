@@ -1,0 +1,10 @@
+{
+    "name": "Navbar",
+    "type": "organism",
+    "stability": "stable",
+    "assets": {
+        "html": [
+            "patterns/organisms/navbar/navbar.html"
+        ]
+    }
+}

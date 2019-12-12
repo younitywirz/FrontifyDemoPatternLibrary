@@ -1,0 +1,10 @@
+{
+    "name": "Button Secondary",
+    "type": "atom",
+    "stability": "stable",
+    "assets": {
+        "html": [
+            "patterns/atoms/button-secondary/button-secondary.html"
+        ]
+    }
+}

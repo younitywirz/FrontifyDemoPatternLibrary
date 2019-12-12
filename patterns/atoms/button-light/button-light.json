@@ -1,0 +1,10 @@
+{
+    "name": "Button Light",
+    "type": "atom",
+    "stability": "stable",
+    "assets": {
+        "html": [
+            "patterns/atoms/button-light/button-light.html"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Button Danger",
+    "type": "atom",
+    "stability": "stable",
+    "assets": {
+        "html": [
+            "patterns/atoms/button-danger/button-danger.html"
+        ]
+    }
+}

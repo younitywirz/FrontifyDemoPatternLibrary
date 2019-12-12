@@ -1,0 +1,10 @@
+{
+    "name": "Button Test",
+    "type": "atom",
+    "stability": "stable",
+    "assets": {
+        "html": [
+            "patterns/atoms/button-test/button-test.html"
+        ]
+    }
+}
